@@ -1,0 +1,25 @@
+Windows Registry Editor Version 5.00
+
+;Created by Vishal Gupta for AskVG.com
+
+[HKEY_CLASSES_ROOT\lnkfile]
+"NeverShowExt"=-
+
+[HKEY_CLASSES_ROOT\InternetShortcut]
+"NeverShowExt"=-
+
+[HKEY_CLASSES_ROOT\piffile]
+"NeverShowExt"=-
+
+[HKEY_CLASSES_ROOT\SHCmdFile]
+"NeverShowExt"=-
+
+[HKEY_CLASSES_ROOT\ShellScrap] 
+"NeverShowExt"=-
+
+[HKEY_CLASSES_ROOT\DocShortcut]
+"NeverShowExt"=-
+
+[HKEY_CLASSES_ROOT\xnkfile]
+"NeverShowExt"=-
+
